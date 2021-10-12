@@ -1,6 +1,6 @@
 ***Augmented Reality Framework*** written in Python
 
-This project was created during the last semester as I took a Computer Vision class at my university with the main usage point: to use it as a practical part of my future Bachelor Thesis.
+This project was created during the last sommer 2021 semester as I took a Computer Vision class at my university with the main usage point: to use it as a practical part of my future Bachelor Thesis.
 
 After reading https://rdmilligan.wordpress.com/2015/10/15/augmented-reality-using-opencv-opengl-and-blender/ I was quite surprized how simple that could be. But since I wanted to use this technology from any smartphone there were necessary some improvements.
 
