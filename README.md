@@ -1,4 +1,4 @@
-Augmented Reality Framework written in Python
+***Augmented Reality Framework*** written in Python
 
 This project was created during the last semester as I took a Computer Vision class at my university with the main usage point: to use it as a practical part of my future Bachelor Thesis.
 
