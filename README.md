@@ -34,7 +34,9 @@ and you are ready to go: just type in your console *python3 main_flask.py* and t
 
 ### License
 
-MIT
+[MIT] License
+
+Copyright (c) 2021 Alexey Obukhov
 
 <br />
 
@@ -43,3 +45,5 @@ MIT
 ### Contributing
 
 Thanks for your attention and please don't hesitate to send me any advise, questions or possible improvements.
+
+[MIT]: https://github.com/vertok/Python-Augmented-Reality-Framework/blob/main/LICENSE
