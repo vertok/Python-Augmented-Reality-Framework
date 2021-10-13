@@ -1,4 +1,6 @@
-***Augmented Reality Framework*** written in Python
+***Augmented Reality AR Framework*** written in Python
+
+### Abstract
 
 This project was created during the last sommer 2021 semester as I took a Computer Vision class at my university with the main usage point: to use it as a practical part of my future Bachelor Thesis.
 
@@ -9,5 +11,35 @@ The whole idea of streaming OpenGL objects over a network was to grab its pictur
 The video was recorded on Android smartphone during opening web browser with this stream one can see bellow:
 
 https://user-images.githubusercontent.com/34322911/136968398-6c6f96fb-5532-44a8-8261-29832a2a5bb5.mov
+
+
+<br />
+
+---
+
+### Installation
+
+python3 -m venv env
+source env/bin/activate
+python3 -m pip install requests.txt
+
+-then please make sure you've installed DroidCam app on you smartphone (in order you want to use your smartphone camera) and change the IP adress in *WebcamVideoStream()* function to IP address from DroidCam app.
+-then you need to print Aruco markers from working directory (or you may simply open them on your device)
+
+and you are ready to go: just type in your console *python3 main_flask.py* and target your camera on the Aruco marker to see how it works. Then you will see on the screen the IP address which you could open from any device in your local network to see this streaming. (please make aware there were predefined only 2 markers DICT_4X4_50_id24 and DICT_4X4_50_id5! In case you want to try use other markers you need to make some changes in the code. Same as you need to use other 3d objects (.obj) -> first predefine according to comments in the source code.
+
+<br />
+
+---
+
+### License
+
+MIT
+
+<br />
+
+---
+
+### Contributing
 
 Thanks for your attention and please don't hesitate to send me any advise, questions or possible improvements.
